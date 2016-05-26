@@ -26,7 +26,6 @@ create table product_spec
 	psc_created_by varchar2(30),
 	psc_updated_dt date,
 	psc_updated_by varchar2(30)
-	helloworld number
 );
 
  -- 2 -- Add comments to columns
